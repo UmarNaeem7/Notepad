@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1520617795 source:c:\users\m. umar naeem\source\code blocks\final\main.cpp
+	<iostream>
+	<graphics.h>
+	<process.h>
+	<stdlib.h>
+	<conio.h>
+	<fstream>
+	<string.h>
+	<ctype.h>
+	<dos.h>
+
